@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="953" height="552" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" clip-rule="evenodd">
+ <clipPath id="_clip1">
+  <rect height="551.533" width="952.574" y="0" x="0" id="Blue Planet"/>
+ </clipPath>
+ <defs>
+  <radialGradient gradientTransform="matrix(474.317,1.16174e-13,-1.16174e-13,474.317,477.672,551.419)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" id="_Radial2">
+   <stop stop-color="#fff" stop-opacity="0.40919" offset="0%"/>
+   <stop stop-color="#0fa6ec" stop-opacity="0.40919" offset="53%"/>
+   <stop stop-color="#000" stop-opacity="0.01765" offset="100%"/>
+  </radialGradient>
+  <pattern id="gridpattern" patternUnits="userSpaceOnUse" x="0" y="0" width="100" height="100">
+   <image id="svg_2" x="0" y="0" width="100" height="100"/>
+  </pattern>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1" clip-path="url(#_clip1)">
+   <circle fill="url(#_Radial2)" r="475.86" cy="551.419" cx="476.129" id="Ellipse 1"/>
+  </g>
+ </g>
+</svg>
